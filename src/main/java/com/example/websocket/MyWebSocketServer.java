@@ -36,7 +36,7 @@ public class MyWebSocketServer {
     @OnWebSocketMessage
     public void onMessage(Session session, String message) {
         prevActivities.put(session, System.currentTimeMillis());
-        System.out.println(message);
+         logger.info(message);
     }
 
     @OnWebSocketClose

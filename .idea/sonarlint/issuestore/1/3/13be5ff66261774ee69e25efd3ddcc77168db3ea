@@ -1,0 +1,19 @@
+
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğ´º—8¸±ûö„2J$12e6e3dc-116f-444b-b7e7-256373c89b6c
+˜	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áĞ»ÿÿÿÿÿ8¸±ûö„2J$1b4a12d4-474e-4661-97d9-d51898cb6b63
+ 
+java:S3008"XRename this field "MAX_IDLE_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú„•Îüÿÿÿÿ8»±ûö„2J$429e17cb-0326-479d-9d2d-43969b64ece6
+œ
+java:S3008"YRename this field "Chech_Interval" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(——ìâ8»±ûö„2J$81c1f61b-df2c-4bd3-bc6a-227e586fd52f
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÃàøüÿÿÿÿ8Â±ûö„2J$7deaf704-9ee4-4da8-8dbe-0edb3331e93d
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ßº8Ã±ûö„2J$8d55b916-3cc5-4c5a-a580-33380e1c2f7f
+r	java:S106"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8Ä±ûö„2J$b44a86d9-67de-4fc2-b66d-27f93f6f6542
+m	java:S106%"+Replace this use of System.out by a logger.(…¢üÔ8Å±ûö„2J$75aed7c1-41fc-414b-b50e-5aefbbda07b8
+	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ìƒ<8Å±ûö„2J$02aa0bca-49cf-4043-b3b8-fbe530bafa38
+|
+java:S2864,"4Iterate over the "entrySet" instead of the "keySet".(á£‘²ıÿÿÿÿ8Æ±ûö„2J$fdafb0cf-3e39-4546-9f9a-80cdd07fdbcb
+r	java:S1061"+Replace this use of System.out by a logger.(¨Ÿ·İşÿÿÿÿ8Æ±ûö„2J$d21a2690-eb4f-42dc-970d-23d538cd494b
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Ç±ûö„2J$1b541c79-0d21-48cd-98e6-82f3b3c7a917
+w
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8Ç±ûö„2J$8774588d-f0ef-4e4f-8f9c-c3cd3b280385
